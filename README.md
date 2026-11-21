@@ -1,3 +1,3 @@
-# Learning-about-version-control
+# Learning about version control
 
 Author: Sam Xu
